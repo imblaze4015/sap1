@@ -2,7 +2,7 @@
 
 A functional 8-bit Simple-As-Possible computer built in Logisim.
 
-![SAP-1 screenshot](SAP-1.png)
+![SAP-1 screenshot](SAP1.png)
 
 ## Overview
 
